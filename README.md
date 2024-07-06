@@ -1,6 +1,6 @@
 ## 💫Hello I'm Vasanth Muralidharan
 
-🔭 Pursuing Btech Information Technology at Rajalakshmi Engineering College<br>👯 I’m looking to collaborate on Full stack projects and ML models<br>🤝 I’m looking for help with Real world projects<br>🌱 I’m currently learning cloud technologies and devops<br>💬 Ask me about Hackathons and api building<br>⚡ Fun fact I play video games and try out new out new technologies<br>
+🔭 Pursuing Btech Information Technology at Rajalakshmi Engineering College<br>👯 I’m looking to collaborate on Full stack projects and ML models<br>🌱 I’m currently learning cloud technologies and devops<br>💬 Ask me about Hackathons and api building<br>⚡ Fun fact I play video games and try out new out new technologies<br>
 
 ## portfolio:
 [Portfolio](https://godricvasa.github.io/VasanthMuralidharan/)
